@@ -23,4 +23,5 @@ res
 - [支持不同的屏幕尺寸](https://developer.android.com/training/multiscreen/screensizes?hl=zh-cn)
 
 - [头条方案 - 一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA)
+- https://www.jianshu.com/p/9d3dfdc5256c
 
